@@ -1,0 +1,125 @@
+/*DRoP Account Creation*/
+/* BASE STYLE */
+body {
+    background: url(img/blue074.jpg);
+    max-width: 1200px;
+    font-size: 16px;
+}
+h1, h2, strong, em, p {
+    color: #ffffff;
+}
+p {
+    font-size: 1em;
+}
+form {
+    color: #ffffff;
+}
+label {
+    color: #ffffff;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+/* NAV */
+nav {
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    color: #ffffff;
+    padding-left: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+nav ul li a:hover {
+    color: #808080;
+}
+
+/* INFO */
+#info h1 {
+    font-size: 2.25em;
+}
+#info .country form, #info .birth form, #info .name form, #info .colour form, #info .email form, #info .password form, #info .impress form, #info button {
+    font-size: 1em;
+    margin-bottom: 1.25em;
+}
+#info .name input, #info .colour input, #info .email input, #info .password input, #info .impress input {
+    font-size: 1em;
+}
+#info .country select, #info .birth select, #info .colour select {
+    font-size: 1em;
+    height: 1.5em;
+}
+
+/* LOGIN */
+#login {
+   margin: 20% 0 0 0;
+}
+#login h1 {
+    font-size: 3.125em;
+    margin: 0 0 0 30%;
+    text-align: center;
+    text-transform: uppercase;
+}
+#login h1 span {
+    text-transform: lowercase;
+}
+#login form {
+    font-size: 1.5em;
+    margin: 0 0 0 30%;
+    text-align: center;
+    text-transform: uppercase;
+}
+#login input {
+    height: 1.5em;
+    width: 20%;
+}
+#login button {
+    font-size: 1em;
+    margin: 2% 0 2% 0;
+    width: 20%;
+    text-transform: uppercase;
+}
+#blue {
+    border: 1px solid #ffffff;
+    height: 100px;
+    margin: 0 0 0 39%;
+    position: absolute;
+    width: 100px;
+}
+#green {
+    border: 1px solid #ffffff;
+    height: 100px;
+    margin: 0 0 0 49%;
+    position: absolute;
+    width: 100px;
+}
+#red {
+    border: 1px solid #ffffff;
+    height: 100px;
+    margin: 0 0 0 39%;
+    position: absolute;
+    width: 100px;
+}
+#yellow {
+    border: 1px solid #ffffff;
+    height: 100px;
+    margin: 1.5% 0 0 29%;
+    position: absolute;
+    width: 100px;
+}
+/* DATABASE */
+#database h1 {
+    font-size: 2.25emx;
+}
+.mammals h2, .reptiles h2, .insects h2, .fish h2 {
+    font-size: 1.5em;
+}
+.mammals p, .reptiles p, .insects p, .fish p {
+    font-size: 1.25em;
+}
+.holds p, .weyrs p, .craft p {
+    font-size: 1.25em;
+}
