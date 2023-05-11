@@ -1,9 +1,14 @@
 /*DRoP Account Creation*/
 /* BASE STYLE */
 body {
-    background: url(img/blue074.jpg);
-    max-width: 1200px;
+    align-items: center;
+    background: url(../img/blue074.jpg);
+    display: flex;
+    flex-flow: row wrap;
     font-size: 16px;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
 }
 h1, h2, strong, em, p {
     color: #ffffff;
@@ -55,11 +60,11 @@ nav ul li a:hover {
 
 /* LOGIN */
 #login {
-   margin: 20% 0 0 0;
+   margin: 10% 0 0 0;
 }
 #login h1 {
     font-size: 3.125em;
-    margin: 0 0 0 30%;
+    margin: 0;
     text-align: center;
     text-transform: uppercase;
 }
@@ -68,51 +73,40 @@ nav ul li a:hover {
 }
 #login form {
     font-size: 1.5em;
-    margin: 0 0 0 30%;
+    margin: 0;
     text-align: center;
     text-transform: uppercase;
 }
 #login input {
     height: 1.5em;
-    width: 20%;
+    width: 50%;
 }
 #login button {
     font-size: 1em;
     margin: 2% 0 2% 0;
-    width: 20%;
+    width: 50%;
     text-transform: uppercase;
 }
-#blue {
-    border: 1px solid #ffffff;
+.blue, .green, .yellow, .red {
+    border-radius: 50%;
     height: 100px;
-    margin: 0 0 0 39%;
-    position: absolute;
     width: 100px;
 }
-#green {
-    border: 1px solid #ffffff;
-    height: 100px;
-    margin: 0 0 0 49%;
-    position: absolute;
-    width: 100px;
+.red {
+    background: radial-gradient(circle at 75% 75%, #fff 0%, #ff6666 10%);
 }
-#red {
-    border: 1px solid #ffffff;
-    height: 100px;
-    margin: 0 0 0 39%;
-    position: absolute;
-    width: 100px;
+.yellow {
+    background: radial-gradient(circle at 25% 75%, #fff 0%, #fff68f 10%);
 }
-#yellow {
-    border: 1px solid #ffffff;
-    height: 100px;
-    margin: 1.5% 0 0 29%;
-    position: absolute;
-    width: 100px;
+.green {
+    background: radial-gradient(circle at 25% 25%, #fff 0%, #00ffaa 10%);
+}
+.blue {
+    background-image: radial-gradient(circle at 75% 25%, #fff 0%, #60affe 10%);
 }
 /* DATABASE */
 #database h1 {
-    font-size: 2.25emx;
+    font-size: 2.25em;
 }
 .mammals h2, .reptiles h2, .insects h2, .fish h2 {
     font-size: 1.5em;
