@@ -1,0 +1,378 @@
+/***** YELLOW EYE *****/
+.yellow {
+    background: radial-gradient(circle at 35% 20%, #fff 10%, #fff68f 25%);
+    border-radius: 50%;
+    height: 100px;
+    left: 54%;
+    position: absolute;
+    top: 38%;
+    width: 100px;
+}
+.yellow span {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    height: 5%;
+    position: absolute;
+    top: 50%;
+    width: 5%;
+}
+.yellow span:nth-child(1) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 1%;
+    position: absolute;
+    top: 56.5%;
+}
+.yellow span:nth-child(2) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 3%;
+    position: absolute;
+    top: 63%;
+}
+.yellow span:nth-child(3) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 6%;
+    position: absolute;
+    top: 69%;
+}
+.yellow span:nth-child(4) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 9.5%;
+    position: absolute;
+    top: 74.5%;
+}
+.yellow span:nth-child(5) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 14%;
+    position: absolute;
+    top: 79.5%;
+}
+.yellow span:nth-child(6) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 19%;
+    position: absolute;
+    top: 84%;
+}
+.yellow span:nth-child(7) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 24.5%;
+    position: absolute;
+    top: 87.5%;
+}
+.yellow span:nth-child(8) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 30.5%;
+    position: absolute;
+    top: 90%;
+}
+.yellow span:nth-child(9) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 36.5%;
+    position: absolute;
+    top: 92%;
+}
+.yellow span:nth-child(10) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 43%;
+    position: absolute;
+    top: 93%;
+}
+.yellow span:nth-child(11) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 49%;
+    position: absolute;
+    top: 93%;
+}
+.yellow span:nth-child(12) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 55%;
+    position: absolute;
+    top: 92.5%;
+}
+.yellow span:nth-child(13) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 61%;
+    position: absolute;
+    top: 91%;
+}
+.yellow span:nth-child(14) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 67%;
+    position: absolute;
+    top: 88.5%;
+}
+.yellow span:nth-child(15) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 73%;
+    position: absolute;
+    top: 85%;
+}
+.yellow span:nth-child(16) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 78%;
+    position: absolute;
+    top: 81%;
+}
+.yellow span:nth-child(17) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 83%;
+    position: absolute;
+    top: 76.5%;
+}
+.yellow span:nth-child(18) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 86.5%;
+    position: absolute;
+    top: 71%;
+}
+.yellow span:nth-child(19) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 89.5%;
+    position: absolute;
+    top: 65%;
+}
+.yellow span:nth-child(20) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 91.5%;
+    position: absolute;
+    top: 59%;
+}
+.yellow span:nth-child(21) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 92.5%;
+    position: absolute;
+    top: 52.5%;
+} 
+.yellow span:nth-child(22) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 93%;
+    position: absolute;
+    top: 46%;
+}
+.yellow span:nth-child(23) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 92.5%;
+    position: absolute;
+    top: 39.5%;
+}
+.yellow span:nth-child(24) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 91%;
+    position: absolute;
+    top: 33%;
+}
+.yellow span:nth-child(25) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 88.5%;
+    position: absolute;
+    top: 26.5%;
+}
+.yellow span:nth-child(26) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 85%;
+    position: absolute;
+    top: 20.5%;
+}
+.yellow span:nth-child(27) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 81%;
+    position: absolute;
+    top: 15.5%;
+}
+.yellow span:nth-child(28) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 76.5%;
+    position: absolute;
+    top: 11%;
+}
+.yellow span:nth-child(29) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 71%;
+    position: absolute;
+    top: 7%;
+}
+.yellow span:nth-child(30) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 65%;
+    position: absolute;
+    top: 4%;
+}
+.yellow span:nth-child(31) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 59%;
+    opacity: 50%;
+    position: absolute;
+    top: 1.7%;
+}
+.yellow span:nth-child(32) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 52.5%;
+    opacity: 25%;
+    position: absolute;
+    top: 0.5%;
+} 
+.yellow span:nth-child(33) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 46%;
+    opacity: 10%;
+    position: absolute;
+    top: 0%;
+}
+.yellow span:nth-child(34) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 39.5%;
+    opacity: 10%;
+    position: absolute;
+    top: 0.5%;
+}
+.yellow span:nth-child(35) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 33%;
+    opacity: 10%;
+    position: absolute;
+    top: 2%;
+}
+.yellow span:nth-child(36) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 27%;
+    opacity: 10%;
+    position: absolute;
+    top: 4.5%;
+}
+.yellow span:nth-child(37) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 21%;
+    opacity: 25%;
+    position: absolute;
+    top: 7.5%;
+}
+.yellow span:nth-child(38) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 16%;
+    opacity: 50%;
+    position: absolute;
+    top: 11.5%;
+}
+.yellow span:nth-child(39) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 11%;
+    position: absolute;
+    top: 16%;
+}
+.yellow span:nth-child(40) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 7%;
+    position: absolute;
+    top: 21.5%;
+}
+.yellow span:nth-child(41) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 3.5%;
+    position: absolute;
+    top: 27%;
+}
+.yellow span:nth-child(42) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 1.5%;
+    position: absolute;
+    top: 32.5%;
+}
+.yellow span:nth-child(43) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    left: 0.5%;
+    position: absolute;
+    top: 38.7%;
+}
+.yellow span:nth-child(44) {
+    background: transparent;
+    border: 1px solid #808000;
+    border-radius: 50%;
+    position: absolute;
+    top: 44.5%;
+}

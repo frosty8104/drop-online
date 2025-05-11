@@ -1,0 +1,411 @@
+/***** BLUE EYE *****/
+.blue {
+    background-image: radial-gradient(circle at 65% 10%, #fff 10%, #60affe 25%);
+    border-radius: 50%;
+    height: 100px;
+    left: 66%;
+    position: absolute;
+    top: 25.5%;
+    width: 100px;
+}
+.blue span {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    height: 5%;
+    position: absolute;
+    top: 50%;
+    width: 5%;
+}
+.blue span:nth-child(1) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 1%;
+    position: absolute;
+    top: 56.5%;
+}
+.blue span:nth-child(2) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 3%;
+    position: absolute;
+    top: 63%;
+}
+.blue span:nth-child(3) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 5.5%;
+    position: absolute;
+    top: 69%;
+}
+.blue span:nth-child(4) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 9%;
+    position: absolute;
+    top: 74.5%;
+}
+.blue span:nth-child(5) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 13.5%;
+    position: absolute;
+    top: 79.5%;
+}
+.blue span:nth-child(6) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 18.5%;
+    position: absolute;
+    top: 84%;
+}
+.blue span:nth-child(7) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 24%;
+    position: absolute;
+    top: 87.5%;
+}
+.blue span:nth-child(8) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 30%;
+    position: absolute;
+    top: 90.5%;
+}
+.blue span:nth-child(9) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 36.5%;
+    position: absolute;
+    top: 92%;
+}
+.blue span:nth-child(10) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 43%;
+    position: absolute;
+    top: 93%;
+}
+.blue span:nth-child(11) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 49%;
+    position: absolute;
+    top: 93%;
+}
+.blue span:nth-child(12) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 55%;
+    position: absolute;
+    top: 92.5%;
+}
+.blue span:nth-child(13) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 61%;
+    position: absolute;
+    top: 91%;
+}
+.blue span:nth-child(14) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 67%;
+    position: absolute;
+    top: 88.5%;
+}
+.blue span:nth-child(15) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 73%;
+    position: absolute;
+    top: 85%;
+}
+.blue span:nth-child(16) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 78%;
+    position: absolute;
+    top: 81%;
+}
+.blue span:nth-child(17) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 83%;
+    position: absolute;
+    top: 76.5%;
+}
+.blue span:nth-child(18) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 86.5%;
+    position: absolute;
+    top: 71%;
+}
+.blue span:nth-child(19) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 89.5%;
+    position: absolute;
+    top: 65%;
+}
+.blue span:nth-child(20) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 91.5%;
+    position: absolute;
+    top: 59%;
+}
+.blue span:nth-child(21) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 92.5%;
+    position: absolute;
+    top: 52.5%;
+} 
+.blue span:nth-child(22) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 93%;
+    position: absolute;
+    top: 46%;
+}
+.blue span:nth-child(23) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 92.5%;
+    position: absolute;
+    top: 39.5%;
+}
+.blue span:nth-child(24) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 91%;
+    position: absolute;
+    top: 33%;
+}
+.blue span:nth-child(25) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 88.5%;
+    position: absolute;
+    top: 26.5%;
+}
+.blue span:nth-child(26) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 85%;
+    position: absolute;
+    top: 20.5%;
+}
+.blue span:nth-child(27) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 81%;
+    opacity: 50%;
+    position: absolute;
+    top: 15.5%;
+}
+.blue span:nth-child(28) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 76.5%;
+    opacity: 25%;
+    position: absolute;
+    top: 11%;
+}
+.blue span:nth-child(29) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 71%;
+    opacity: 10%;
+    position: absolute;
+    top: 7%;
+}
+.blue span:nth-child(30) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 65%;
+    opacity: 10%;
+    position: absolute;
+    top: 4%;
+}
+.blue span:nth-child(31) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 59%;
+    opacity: 10%;
+    position: absolute;
+    top: 1.7%;
+}
+.blue span:nth-child(32) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 52.5%;
+    opacity: 10%;
+    position: absolute;
+    top: 0.5%;
+} 
+.blue span:nth-child(33) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 46%;
+    opacity: 25%;
+    position: absolute;
+    top: 0%;
+}
+.blue span:nth-child(34) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 39.5%;
+    opacity: 50%;
+    position: absolute;
+    top: 0.5%;
+}
+.blue span:nth-child(35) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 33%;
+    position: absolute;
+    top: 2%;
+}
+.blue span:nth-child(36) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 27%;
+    position: absolute;
+    top: 4.5%;
+}
+.blue span:nth-child(37) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 21%;
+    position: absolute;
+    top: 7.5%;
+}
+.blue span:nth-child(38) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 16%;
+    position: absolute;
+    top: 11.5%;
+}
+.blue span:nth-child(39) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 11%;
+    position: absolute;
+    top: 16%;
+}
+.blue span:nth-child(40) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 7%;
+    position: absolute;
+    top: 21.5%;
+}
+.blue span:nth-child(41) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 3.5%;
+    position: absolute;
+    top: 27%;
+}
+.blue span:nth-child(42) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 1.5%;
+    position: absolute;
+    top: 32.5%;
+}
+.blue span:nth-child(43) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 0.5%;
+    position: absolute;
+    top: 38.7%;
+}
+.blue span:nth-child(44) {
+    background: transparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    position: absolute;
+    top: 44.5%;
+}
+.blue span:nth-child(45) {
+    background: trasnparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 6%;
+    position: absolute;
+    top: 42.5%;
+}
+.blue span:nth-child(46) {
+    background: trasnparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 6.7%;
+    position: absolute;
+    top: 36%;
+}
+.blue span:nth-child(47) {
+    background: trasnparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 9%;
+    position: absolute;
+    top: 30%;
+}
+.blue span:nth-child(48) {
+    background: trasnparent;
+    border: 1px solid #000080;
+    border-radius: 50%;
+    left: 9%;
+    position: absolute;
+    top: 30%;
+}
+
